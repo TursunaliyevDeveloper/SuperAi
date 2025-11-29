@@ -6,9 +6,9 @@
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <application
-        android:label="SuperAi"
+        android:label="MantiqLab"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/mantiq_lab">
         <activity
             android:name=".MainActivity"
             android:exported="true"

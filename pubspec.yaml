@@ -1,5 +1,5 @@
-name: SuperAi
-description: "A new Flutter project."
+name: MantiqLab
+description: "MantiqLab"
 publish_to: 'none'
 version: 1.0.0+1
 environment:
@@ -8,9 +8,9 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.8
-  dash_chat_2: ^0.0.21
   flutter_gemini: ^3.0.0
   image_picker: ^1.1.2
+  dash_chat_2: ^0.0.21
 dev_dependencies:
   flutter_test:
     sdk: flutter

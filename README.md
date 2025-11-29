@@ -1,16 +1,20 @@
-# superai
+# MantiqLab
 
-A new Flutter project.
+Artificial Intelligence app
 
-## Getting Started
+## Api Google gemini api dan fo'ydalanilgan
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# My You Tube Channel
+https://youtube.com/@samandar_tursunaliyev?si=DllWMruDBIghUNYR
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🧠 Loyihaning qisqa tavsifi
+Mantiq Lab — inson bilan tabiiy muloqot qiladigan AI chat ilovasi.
+Flutter’da yozilgan va Gemini sun’iy intellekti bilan bog‘langan.
+Ilova foydalanuvchiga tez, aniq va qulay javoblar beradi.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# ScreenShot
+
+<p align="center">
+<img src="lib/screens/screenshot.png" width="220"/>
+</p>
